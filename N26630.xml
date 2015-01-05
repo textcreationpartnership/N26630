@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="illustration">
-            <pb facs="tcp:035415_0000_1004C2DE57B993F0"/>
-            <pb facs="tcp:035415_0001_1004C2E0CBA0FD60"/>
+            <pb facs="unknown:035415_0000_1004C2DE57B993F0"/>
+            <pb facs="unknown:035415_0001_1004C2E0CBA0FD60"/>
             <p>
                <figure/>
             </p>
@@ -123,13 +123,13 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:035415_0002_1004C2528D9CCD60"/>
+            <pb facs="unknown:035415_0002_1004C2528D9CCD60"/>
             <p>THE <hi>PRINCIPLES</hi> OF THE CHRISTIAN RELIGION: DIVIDED INTO LESSONS And adapted to the Capacities of Children.</p>
             <p>PRINTED AT WORCESTER: BY ISAIAH THOMAS, JUN.</p>
             <p>Sold Wholeſale and Retail at his Store. 1799.</p>
          </div>
          <div type="illustration">
-            <pb facs="tcp:035415_0003_1004C27B14D87CA0"/>
+            <pb facs="unknown:035415_0003_1004C27B14D87CA0"/>
             <p>
                <figure/>
             </p>
@@ -140,7 +140,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:035415_0004_1004C2EC56439D90"/>
+            <pb facs="unknown:035415_0004_1004C2EC56439D90"/>
             <head>THE <hi>PRINCIPLES</hi> OF THE CHRISTIAN RELIGION.</head>
             <div n="1" type="lesson">
                <head>
@@ -155,7 +155,7 @@
                <l>In perfect knowledge &amp; delight.</l>
             </div>
             <div n="2" type="lesson">
-               <pb n="6" facs="tcp:035415_0005_1004C29BCF753AC8"/>
+               <pb n="6" facs="unknown:035415_0005_1004C29BCF753AC8"/>
                <head>
                   <hi>LESSON II.</hi> The knowledge of God to be learnt from the Bible.</head>
                <lg>
@@ -172,7 +172,7 @@
                </lg>
             </div>
             <div n="3" type="lesson">
-               <pb n="7" facs="tcp:035415_0006_1004C2EDE0DDAE58"/>
+               <pb n="7" facs="unknown:035415_0006_1004C2EDE0DDAE58"/>
                <head>
                   <hi>LESSON III.</hi> Of the Nature of the bleſſed God.</head>
                <lg>
@@ -189,7 +189,7 @@
                </lg>
             </div>
             <div n="4" type="lesson">
-               <pb n="8" facs="tcp:035415_0007_1004C247D1B441D0"/>
+               <pb n="8" facs="unknown:035415_0007_1004C247D1B441D0"/>
                <head>
                   <hi>LESSON IV.</hi> Of God's Relation to us.</head>
                <lg>
@@ -206,7 +206,7 @@
                </lg>
             </div>
             <div n="5" type="lesson">
-               <pb n="9" facs="tcp:035415_0008_1004C2F218E2B270"/>
+               <pb n="9" facs="unknown:035415_0008_1004C2F218E2B270"/>
                <head>
                   <hi>LESSON V.</hi> Of our Duty to God and Man.</head>
                <lg>
@@ -223,7 +223,7 @@
                </lg>
             </div>
             <div n="6" type="lesson">
-               <pb n="10" facs="tcp:035415_0009_1004C24A6E54A438"/>
+               <pb n="10" facs="unknown:035415_0009_1004C24A6E54A438"/>
                <head>
                   <hi>LESSON VI.</hi> How love to God is to be ſhewn.</head>
                <lg>
@@ -240,7 +240,7 @@
                </lg>
             </div>
             <div n="7" type="lesson">
-               <pb n="11" facs="tcp:035415_0010_1004C2F48953BDB8"/>
+               <pb n="11" facs="unknown:035415_0010_1004C2F48953BDB8"/>
                <head>
                   <hi>LESSON VII.</hi> How love to our Neighbour is to be ſhewn.</head>
                <lg>
@@ -257,7 +257,7 @@
                </lg>
             </div>
             <div n="8" type="lesson">
-               <pb n="12" facs="tcp:035415_0011_1004C2E339D47568"/>
+               <pb n="12" facs="unknown:035415_0011_1004C2E339D47568"/>
                <head>
                   <hi>LESSON VIII.</hi> All Sins to be avoided.</head>
                <l>GUARD me, O God, from every ſin,</l>
@@ -273,7 +273,7 @@
                <l>And that which leads to every crime, The vain miſpence of ſacred time.</l>
             </div>
             <div n="9" type="lesson">
-               <pb n="13" facs="tcp:035415_0012_1004C255F6928908"/>
+               <pb n="13" facs="unknown:035415_0012_1004C255F6928908"/>
                <head>
                   <hi>LESSON IX.</hi> The ſin of our nature confeſſed.</head>
                <lg>
@@ -294,7 +294,7 @@
                </lg>
             </div>
             <div n="10" type="lesson">
-               <pb n="14" facs="tcp:035415_0013_1004C2E85E32CDF0"/>
+               <pb n="14" facs="unknown:035415_0013_1004C2E85E32CDF0"/>
                <head>
                   <hi>LESSON X.</hi> The miſery brought by ſin.</head>
                <l>WHO can abide God's wrath, or ſtand before the terrors of his hand?</l>
@@ -304,7 +304,7 @@
                <l>O let my longing trembling ear, Some ſound of grace and pardon hear, My ſoul would the firſt news embrace, And turn its tremblings into praiſe.</l>
             </div>
             <div n="11" type="lesson">
-               <pb n="15" facs="tcp:035415_0014_1004C2F6146A6508"/>
+               <pb n="15" facs="unknown:035415_0014_1004C2F6146A6508"/>
                <head>
                   <hi>LESSON XI.</hi> Salvation by Chriſt.</head>
                <l>WHAT joyful tidings do I hear? The goſpel grace ſalutes my ear;</l>
@@ -315,7 +315,7 @@
                <l>And that eternal life receive Which he was ſent by God to give.</l>
             </div>
             <div n="12" type="lesson">
-               <pb n="16" facs="tcp:035415_0015_1004C24E99354328"/>
+               <pb n="16" facs="unknown:035415_0015_1004C24E99354328"/>
                <head>
                   <hi>LESSON XII.</hi> Who is Chriſt, and how he ap<g ref="char:EOLhyphen"/>peared in the world.</head>
                <l>JESUS! how bright his glo<g ref="char:EOLhyphen"/>ries ſhine! The great Emman<g ref="char:EOLhyphen"/>uel is divine.</l>
@@ -329,7 +329,7 @@
                <l>The Son of God, from year to year, Did as a carpenter ap<g ref="char:EOLhyphen"/>pear.</l>
             </div>
             <div n="13" type="lesson">
-               <pb n="17" facs="tcp:035415_0016_1004C2F95EAFF500"/>
+               <pb n="17" facs="unknown:035415_0016_1004C2F95EAFF500"/>
                <head>
                   <hi>LESSON XIII.</hi> What Chriſt did in the World.</head>
                <l>CHRIST labor'd with un<g ref="char:EOLhyphen"/>wearied zeal, God's will and nature to reveal.</l>
@@ -339,7 +339,7 @@
                <l>All honour then aſcribed be, to him who liv'd and died for me.</l>
             </div>
             <div n="14" type="lesson">
-               <pb n="18" facs="tcp:035415_0017_1004C2EACCEF9D70"/>
+               <pb n="18" facs="unknown:035415_0017_1004C2EACCEF9D70"/>
                <head>
                   <hi>LESSON XIV.</hi> Chriſt's Sufferings and Death.</head>
                <l>JESUS the righteous! lo, he dies, For ſin a ſpotleſs ſac<g ref="char:EOLhyphen"/>rifice;</l>
@@ -349,7 +349,7 @@
                <l>Cold in the tomb that mournful day, My Saviour's mangled body lay.</l>
             </div>
             <div n="15" type="lesson">
-               <pb n="19" facs="tcp:035415_0018_1004C2FC0D774400"/>
+               <pb n="19" facs="unknown:035415_0018_1004C2FC0D774400"/>
                <head>
                   <hi>LESSON XV.</hi> Chriſt's reſurrection &amp; aſcention.</head>
                <l>NOW, O my ſoul, thy grief refrain, Jeſus the Saviour lives again.</l>
@@ -360,7 +360,7 @@
                <l>May I in that bleſt band ap<g ref="char:EOLhyphen"/>pear, Secure from danger and from ſear.</l>
             </div>
             <div n="16" type="lesson">
-               <pb n="20" facs="tcp:035415_0019_1004C25104BD70A0"/>
+               <pb n="20" facs="unknown:035415_0019_1004C25104BD70A0"/>
                <head>
                   <hi>LESSON XVI.</hi> Of Faith and Repentance.</head>
                <l>THEY muſt repent, and muſt believe, Who Chriſt's ſalvation would receive.</l>
@@ -370,7 +370,7 @@
                <l>So ſhall thy grace my ſins forgive, Jeſus ſhall ſmile, and I ſhall live.</l>
             </div>
             <div n="17" type="lesson">
-               <pb n="21" facs="tcp:035415_0020_1004C2FE76C608A0"/>
+               <pb n="21" facs="unknown:035415_0020_1004C2FE76C608A0"/>
                <head>
                   <hi>LESSON XVII.</hi> The aſſiſtance of the bleſſed Spirit.</head>
                <l>'TIS not in my weak power alone, To melt this ſtubborn heart of ſtone,</l>
@@ -380,7 +380,7 @@
                <l>I'll ſeek it in a Saviour's name, Who will not turn my hopes to ſhame.</l>
             </div>
             <div n="18" type="lesson">
-               <pb n="22" facs="tcp:035415_0021_1004C25952F2D480"/>
+               <pb n="22" facs="unknown:035415_0021_1004C25952F2D480"/>
                <head>
                   <hi>LESSON XVIII.</hi> Of the means of Grace.</head>
                <l>WHAT kind proviſion God has made, That we may ſafe to heaven be led!</l>
@@ -391,7 +391,7 @@
                <l>Delightful day, when chriſt<g ref="char:EOLhyphen"/>ians meet, To hear, and pray, and ſing, how ſweet!</l>
             </div>
             <div n="19" type="lesson">
-               <pb n="23" facs="tcp:035415_0022_1004C264C4304400"/>
+               <pb n="23" facs="unknown:035415_0022_1004C264C4304400"/>
                <head>
                   <hi>LESSON XIX.</hi> The deſign of Baptiſm.</head>
                <l>In baptiſm waſh'd we all muſt be, In honour of the ſac<g ref="char:EOLhyphen"/>red Three,</l>
@@ -401,7 +401,7 @@
                <l>Into theſe names was I bap<g ref="char:EOLhyphen"/>tiz'd, And be the honour juſtly priz'd: I'll join then in my ſongs of praiſe, Now, and thro' heaven's eternal days.</l>
             </div>
             <div n="20" type="lesson">
-               <pb n="24" facs="tcp:035415_0023_1004C25BBB3159D0"/>
+               <pb n="24" facs="unknown:035415_0023_1004C25BBB3159D0"/>
                <head>
                   <hi>LESSON XX.</hi> Of the Lord's Supper.</head>
                <l>THE mem'ry of Chriſt's death is ſweet, When ſaints around his table meet,</l>
@@ -412,7 +412,7 @@
                <l>When ripe in knowledge and in grace, I at that board ſhall find a place.</l>
             </div>
             <div n="21" type="lesson">
-               <pb n="25" facs="tcp:035415_0024_1004C2664E98B5A8"/>
+               <pb n="25" facs="unknown:035415_0024_1004C2664E98B5A8"/>
                <head>
                   <hi>LESSON XXI.</hi> Of the Holy Angels.</head>
                <l>My ſoul the heavenly world ſurvey, The regions of eter<g ref="char:EOLhyphen"/>nal day.</l>
@@ -422,7 +422,7 @@
                <l>That I, when time has run his race, May with bleſs'd an<g ref="char:EOLhyphen"/>gels find a place.</l>
             </div>
             <div n="22" type="lesson">
-               <pb n="26" facs="tcp:035415_0025_1004C25D4ABA6DF0"/>
+               <pb n="26" facs="unknown:035415_0025_1004C25D4ABA6DF0"/>
                <head>
                   <hi>LESSON XXII.</hi> On Death.</head>
                <l>LORD, I confeſs thy ſentence juſt, That ſinful man ſhould turn to duſt;</l>
@@ -433,7 +433,7 @@
                <l>Thou cheerful at his call may riſe, And ſpring to life beyond the ſkies.</l>
             </div>
             <div n="23" type="lesson">
-               <pb n="27" facs="tcp:035415_0026_1004C2680A2DA2F8"/>
+               <pb n="27" facs="unknown:035415_0026_1004C2680A2DA2F8"/>
                <head>
                   <hi>LESSON XXIII.</hi> Reſurrection of the Dead.</head>
                <l>ALIKE both ſaints and ſin<g ref="char:EOLhyphen"/>ners die, Mould'ring alike in duſt they lie.</l>
@@ -443,7 +443,7 @@
                <l>Yield up the nations of the dead, For ages in their bowels laid.</l>
             </div>
             <div n="24" type="lesson">
-               <pb n="28" facs="tcp:035415_0027_1004C25FB130C9E8"/>
+               <pb n="28" facs="unknown:035415_0027_1004C25FB130C9E8"/>
                <head>
                   <hi>LESSON XXIV.</hi> Of the Laſt Judgment.</head>
                <l>WHEN Chriſt to judge the world deſcends, Thus ſhall he ſay to all his friends:</l>
@@ -453,7 +453,7 @@
                <l>I at that judgment muſt ap<g ref="char:EOLhyphen"/>pear, and muſt this ſolomn ſen<g ref="char:EOLhyphen"/>tence hear (as I'm with ſaints or ſinners plac'd ("Depart ye curs'd," or, "come ye bleſt."</l>
             </div>
             <div n="25" type="lesson">
-               <pb n="29" facs="tcp:035415_0028_1004C26C2D639160"/>
+               <pb n="29" facs="unknown:035415_0028_1004C26C2D639160"/>
                <head>
                   <hi>LESSON XXV.</hi> Heaven and Hell.</head>
                <l>THE judgment paſt, then down to hell The wicked go, in flames to dwell:</l>
@@ -464,7 +464,7 @@
                <l>And all their happineſs ap<g ref="char:EOLhyphen"/>pears, Increaſing with eternal years.</l>
             </div>
             <div n="26" type="lesson">
-               <pb n="30" facs="tcp:035415_0029_1004C2625735AA68"/>
+               <pb n="30" facs="unknown:035415_0029_1004C2625735AA68"/>
                <head>
                   <hi>LESSON XXVI.</hi> Reflections on the value of the ſoul.</head>
                <l>ETERNAL God! what ſhall I do! My nature trem<g ref="char:EOLhyphen"/>bles at the view.</l>
@@ -473,7 +473,7 @@
                <l>O be thy ſhield around me ſpead, To guard the ſpirit thou haſt made.</l>
                <l>Save me from ſnares of earth and hell, And from myſelf pre<g ref="char:EOLhyphen"/>ſerve me well;</l>
                <l>Leſt all the heavenly truths I know, Increaſe my guilt, and ſhame, and woe.</l>
-               <pb facs="tcp:035415_0030_1004C26DB84F5FF0"/>
+               <pb facs="unknown:035415_0030_1004C26DB84F5FF0"/>
                <p>
                   <figure/>
                </p>
